@@ -1,1 +1,2 @@
-this is just another text file
+fix this line for test
+add this line
